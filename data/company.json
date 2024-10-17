@@ -2,66 +2,79 @@
     {
       "name": "Thorin Oakenshield",
       "description": "In the year TA 2746, Thorin II was born to Dwarven prince Thráin II in the mountain city of The Lonely Mountain. Early in his youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA 2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he participated in the Battle of Azanulbizar in TA 2799. He marched with one of the Dwarven armies beneath the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch found on the floor as a shield, he gained the epithet \"Oakenshield,\" which would remain with him even in death.",
-      "image": "https://vignette.wikia.nocookie.net/lotr/images/3/3f/ThorinBIG.jpg"
+      "image": "https://vignette.wikia.nocookie.net/lotr/images/3/3f/ThorinBIG.jpg",
+      "url": "thorin"
     },
     {
       "name": "Fili and Kili",
       "description": "Fíli and Kíli were nephews of Thorin, who was the elder brother of their mother Dís. They were also nephews of Frerin, grandsons of Thráin II, and great-grandsons of Thrór. Fíli's most distinguishing feature was his long nose, the longest of any of the Dwarves in Thorin's company.",
-      "image": "https://vignette.wikia.nocookie.net/lotr/images/b/b4/The-Hobbit-Fili-and-Kili.jpg"
+      "image": "https://vignette.wikia.nocookie.net/lotr/images/b/b4/The-Hobbit-Fili-and-Kili.jpg",
+      "url": "fili-and-kili"
     },
     {
-      "name": "Óin",
-      "description": "Óin was a Dwarf of Durin's Folk. He was a member of Thorin and Company, playing a prominent role in the quest to reclaim the Lonely Mountain. Óin was the son of Gróin, and brother of Gloin. He was also a cousin of Balin, Dwalin, and Thorin Oakenshield.",
-      "image": "https://static.wikia.nocookie.net/peter-jacksons-the-hobbit-and-lord-of-the-rings/images/2/25/Oin_AUJ_2.png"
-    },
-    {
-      "name": "Gloin",
-      "description": "Glóin was a Dwarf of Durin's Folk. He was the son of Gróin, and brother of Óin. He was also a cousin of Balin, Dwalin, and Thorin Oakenshield. Glóin was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/f/fc/Gloin_2.jpg"
-    },
-    {
-      "name": "Balin",
-      "description": "Balin was a Dwarf lord, the son of Fundin and younger brother of Dwalin. He was a member of Thorin Oakenshield's company of Dwarves who sought to reclaim the Lonely Mountain from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/middle-earth-film-saga/images/4/48/Balinpro.png"
-    },
-    {
-      "name": "Dwalin",
-      "description": "Dwalin was a Dwarf warrior and a member of Thorin Oakenshield's company of Dwarves in the Quest for Erebor. He was the son of Fundin, and elder brother of Balin.",
-      "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/2/2b/Dwalin_-_The_Hobbit.jpg"
-    },
-    {
-      "name": "Ori",
-      "description": "Ori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/8/81/Ori.jpeg"
-    },
-    {
-      "name": "Dori",
-      "description": "Dori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/8/89/Dori-markhadlow-p.jpg"
-    },
-    {
-      "name": "Nori",
-      "description": "Nori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/pjmidearthfilms/images/4/45/014abc34a33ab0e1dff69d68a722d16e.jpg"
-    },
-    {
-      "name": "Bifur",
-      "description": "Bifur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/b/b5/Bifur.jpg"
-    },
-    {
-      "name": "Bofur",
-      "description": "Bofur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/5/56/Bofur_Nesbitt.jpg"
-    },
-    {
-      "name": "Bombur",
-      "description": "Bombur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/5/5f/Bombur-stephenhunter-p.jpg"
-    },
-    {
-      "name": "Gandalf",
-      "description": "Gandalf was a wizard, or Istar, sent by the Valar to Middle-earth in the Third Age to combat the threat of Sauron, the Dark Lord. He was known as the Grey Pilgrim, the Grey Wanderer, and later as the White Rider. He was the wisest of the Maiar, and his power was surpassed only by Saruman the White.",
-      "image": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg"
-    }
+        "name": "Óin",
+        "description": "Óin was a Dwarf of Durin's Folk. He was a member of Thorin and Company, playing a prominent role in the quest to reclaim the Lonely Mountain. Óin was the son of Gróin, and brother of Gloin. He was also a cousin of Balin, Dwalin, and Thorin Oakenshield.",
+        "image": "https://static.wikia.nocookie.net/peter-jacksons-the-hobbit-and-lord-of-the-rings/images/2/25/Oin_AUJ_2.png",
+        "url": "oin"
+      },
+      {
+        "name": "Gloin",
+        "description": "Glóin was a Dwarf of Durin's Folk. He was the son of Gróin, and brother of Óin. He was also a cousin of Balin, Dwalin, and Thorin Oakenshield. Glóin was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/f/fc/Gloin_2.jpg",
+        "url": "gloin"
+      },
+      {
+        "name": "Balin",
+        "description": "Balin was a Dwarf lord, the son of Fundin and younger brother of Dwalin. He was a member of Thorin Oakenshield's company of Dwarves who sought to reclaim the Lonely Mountain from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/middle-earth-film-saga/images/4/48/Balinpro.png",
+        "url": "balin"
+      },
+      {
+        "name": "Dwalin",
+        "description": "Dwalin was a Dwarf warrior and a member of Thorin Oakenshield's company of Dwarves in the Quest for Erebor. He was the son of Fundin, and elder brother of Balin.",
+        "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/2/2b/Dwalin_-_The_Hobbit.jpg",
+        "url": "dwalin"
+      },
+      {
+        "name": "Ori",
+        "description": "Ori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/8/81/Ori.jpeg",
+        "url": "ori"
+      },
+      {
+        "name": "Dori",
+        "description": "Dori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/8/89/Dori-markhadlow-p.jpg",
+        "url": "dori"
+      },
+      {
+        "name": "Nori",
+        "description": "Nori was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/pjmidearthfilms/images/4/45/014abc34a33ab0e1dff69d68a722d16e.jpg",
+        "url": "nori"
+      },
+      {
+        "name": "Bifur",
+        "description": "Bifur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/b/b5/Bifur.jpg",
+        "url": "bifur"
+      },
+      {
+        "name": "Bofur",
+        "description": "Bofur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/the-hobbit-lotr-trilogies/images/5/56/Bofur_Nesbitt.jpg",
+        "url": "bofur"
+      },
+      {
+        "name": "Bombur",
+        "description": "Bombur was a Dwarf who lived during the late Third Age. He was a member of Thorin and Company, a group of thirteen Dwarves led by Thorin Oakenshield that set out to reclaim their homeland from Smaug the dragon.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/5/5f/Bombur-stephenhunter-p.jpg",
+        "url": "bombur"
+      },
+      {
+        "name": "Gandalf",
+        "description": "Gandalf was a wizard, or Istar, sent by the Valar to Middle-earth in the Third Age to combat the threat of Sauron, the Dark Lord. He was known as the Grey Pilgrim, the Grey Wanderer, and later as the White Rider. He was the wisest of the Maiar, and his power was surpassed only by Saruman the White.",
+        "image": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg",
+        "url": "gandalf"
+      }
   ]
